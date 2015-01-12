@@ -1,6 +1,8 @@
 # HANGMAN
 *movies and GRE words*
 
+![Capture](https://raw.githubusercontent.com/debowin/hangman/master/cap.JPG)
+
 ## Features:
 1. Builds the game DB by crawling the IMDB TOP 250 for movies.
    Has the ability to add more, given the link to an IMDB list.
